@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+data/transactions.json
+models/ai_model.pkl
+.env
